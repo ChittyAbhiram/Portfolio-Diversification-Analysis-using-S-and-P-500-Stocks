@@ -42,6 +42,11 @@ Averaging effect:
 reduces the impact of market volatility and shocks by spreading your investments over uncorrelated stocks
 
 
+# References:
+
+1. https://www.investopedia.com/terms/s/sharperatio.asp
+2. https://www.investopedia.com/terms/d/diversification.asp#:~:text=Diversification%20is%20a%20risk%20management,any%20single%20asset%20or%20risk
+3. https://www.macrotrends.net/
 
 
 
