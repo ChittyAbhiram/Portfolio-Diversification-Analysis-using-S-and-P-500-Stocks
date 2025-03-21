@@ -35,10 +35,10 @@ The outcome provides insights into portfolio optimization. We find that the opti
 
 ![image](https://github.com/user-attachments/assets/c92330d6-01ab-4ec8-94bb-1c1c49b26d0b)
 
-# Compounding effect:
+Compounding effect:
 accumulates interest from previous periods, causing exponential-like growth
 
-# Averaging effect:
+Averaging effect:
 reduces the impact of market volatility and shocks by spreading your investments over uncorrelated stocks
 
 
