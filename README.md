@@ -33,6 +33,8 @@ The outcome provides insights into portfolio optimization. We find that the opti
 
 
 
+![image](https://github.com/user-attachments/assets/e30e619e-9b20-4214-8989-8c435057083a)
+
 
 
 
