@@ -27,6 +27,9 @@ n = Population set,  k = subset
 We took combinations for different portfolio sizes of stocks like 5, 15,.., 45. C(𝟐𝟕𝟎¦𝟏𝟎) = 4.793227598 E+17 out of which we have considered 10000 combinations.	 
 
 
+## Results
+
+The outcome provides insights into portfolio optimization. We find that the optimal number of stocks an investor should hold is approximately 35. This specific quantity corresponds to the highest Sharpe Ratios, signifying an ideal equilibrium between return and risk within this stock combination. We have also found that the time is a key factor. We can clearly see the compounding effect can significantly boost the overall return on the investment. The longer the investment is held, the more pronounced diversification effect becomes. The pie Chart shows the most represented industries. Our ideal portfolio is concentrated in industries like Technology, Banks and Financial Services, Drug manufacturing and Healthcare, etc.
 
 
 
